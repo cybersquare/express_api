@@ -14,5 +14,8 @@ module.exports = {
     port: process.env.PORT,
     api:{
         prefix: process.env.PREFIX
+    },
+    dburl:{
+        connectionString: process.env.DB_URL
     }
 }

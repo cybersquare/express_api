@@ -1,0 +1,34 @@
+{
+    "required": {
+        "en":"Id not found",
+        "ru":"Id not found - Russian",
+        "jp":"Id not found - Japan", 
+        "in":"Id not found - India"
+    },
+    "passwordMismatch": {
+        "en":"",
+        "ru":"",
+        "jp":"", 
+        "in":""
+    },
+    "invalidId": {
+        "en":"",
+        "ru":"",
+        "jp":"", 
+        "in":""
+    },
+    "invalidRequest": {
+        "en":"",
+        "ru":"",
+        "jp":"", 
+        "in":""
+    },
+    "registrationSuccess": {
+        "en":"Registration success",
+        "ru":"",
+        "jp":"", 
+        "in":""
+    }
+
+
+}

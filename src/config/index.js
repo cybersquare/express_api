@@ -17,5 +17,6 @@ module.exports = {
     },
     dburl:{
         connectionString: process.env.DB_LOCAL
-    }
+    },
+    refreshSecret: process.env.REFRESH_SECRET
 }

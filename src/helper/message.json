@@ -28,7 +28,20 @@
         "ru":"",
         "jp":"", 
         "in":""
+    },
+    "loginFailed":{
+        "en":"Logn failed",
+        "ru":"",
+        "jp":"", 
+        "in":""
+    },
+    "loginSuccess":{
+        "en":"Logn success",
+        "ru":"",
+        "jp":"", 
+        "in":""
     }
+
 
 
 }

@@ -12,7 +12,7 @@ const registerValidation = require("../../validator/register-validator")
 // const tokenMiddleware = require("../../middleware/token-middleware");
 // const responseHelper = require("../../helper/response-helper");
 
-api.post("/",registerValidation.registerCheck,registerController.register);
+api.post("/",registerValidation.registerCheck, registerController.register);
 
 // api.post("/get-new-access-token", tokenValidation.requestBodyValidation, tokenValidation.refreshTokenHeaderValidation, tokenMiddleware.verifyToken, loginController.createNewTokenPattern);
 
